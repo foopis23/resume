@@ -1,0 +1,266 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Eric Sexton",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "eric.t.sexton@gmail.com",
+    "phone": "(260) 445-7443",
+    "url": "https://sextonsoftware.dev/",
+    "summary": "I'm Eric Sexton, a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my tech skills at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
+    "location": {
+      "address": "12302 Hummingbird Cv",
+      "postalCode": "46845",
+      "city": "Fort Wayne",
+      "countryCode": "US",
+      "region": "Indiana"
+    },
+    "profiles": [
+      {
+        "network": "Github",
+        "username": "foopis23",
+        "url": "https://github.com/foopis23"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Ferguson Advertising",
+      "location": "Fort Wayne, IN",
+      "description": "Ferguson is a truly full-service agency: Strategy. Advertising. Digital. PR. Social Media. Video. Media.",
+      "position": "Software Engineer",
+      "url": "https://theferg.com",
+      "startDate": "2019-05-01",
+      "summary": "",
+      "highlights": [
+        "Designed the architecture for the company's first SaaS product (RV Management Platform) using Node.js, Typescript, Prisma, PostgreSQL, and React.js",
+        "Led an effort to move self-hosted services to cloud provider and to automate build processes to improve developer efficiency",
+        "Implemented SAML and Auth0 integration for enterprises level clients.",
+        "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
+        "Integrated headless CMS platforms like PayloadCMS for seamless content management",
+        "Utilized Angular, PHP, and WordPress for diverse web development projects"
+      ]
+    },
+    {
+      "name": "Copper Loom",
+      "location": "Fort Wayne, IN",
+      "description": "Duvet, Comforter, pillow case, and mattress protector company.",
+      "position": "Web Developer",
+      "startDate": "2018-07-01",
+      "endDate": "2019-02-01",
+      "summary": "",
+      "highlights": [
+        "Developed and maintained company website using WordPress and WooCommerce",
+        "Implemented custom WordPress plugins to extend functionality of WooCommerce",
+        "Created custom WordPress themes using PHP, HTML, CSS, and Javascript",
+        "Utilized Google Analytics to track user behavior and improve conversion rates"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "PFW ACM - Global Game Jam",
+      "position": "Global Game Jam Organizer and Mentor",
+      "startDate": "2023-01-01",
+      "summary": "Purdue Fort Wayne's Association of Computers and Machinery is a student organization that hosts events for students to learn about computer science and network with other students and professionals.",
+      "highlights": [
+        "Helped organize and run the Global Game Jam at Purdue Fort Wayne",
+        "Gave an intro to Unity Workshop for Students",
+        "Acted as a mentor for students during the Global Game Jam"
+      ],
+      "url": "https://globalgamejam.org/jam-sites/2024/purdue-fort-wayne"
+    },
+    {
+      "organization": "PFW - CS105",
+      "position": "Guest Speaker",
+      "startDate": "2023-01-01",
+      "url": "https://www.pfw.edu/"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Purdue Fort Wayne University",
+      "url": "https://www.pfw.edu/",
+      "area": "BS in Computer Science",
+      "studyType": "Bachelor",
+      "startDate": "2018-08-20",
+      "endDate": "2022-05-01",
+      "score": "3.0"
+    }
+  ],
+  "awards": [],
+  "publications": [],
+  "skills": [
+    {
+      "name": "Frontend Web App Development",
+      "keywords": [
+        "NuxtJS",
+        "TRPC",
+        "TailwindCSS",
+        "REST",
+        "GraphQL",
+        "Typescript",
+        "JSON",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
+      "name": "Backend Web App Development",
+      "keywords": [
+        "NodeJS",
+        "Express",
+        "NestJS",
+        "PayloadCMS",
+        "Prisma",
+        "PostgreSQL",
+        "Docker"
+      ]
+    },
+    {
+      "name": "CI/CD",
+      "keywords": [
+        "Github Actions",
+        "Docker",
+        "Railway",
+        "Terraform",
+        "GCP"
+      ]
+    },
+    {
+      "name": "Software Architecture",
+      "keywords": [
+        "Microservice Architecture",
+        "Database Design",
+        "API Design"
+      ]
+    },
+    {
+      "name": "Agile Development",
+      "keywords": [
+        "Scrum",
+        "Jira",
+        "Kanban"
+      ]
+    },
+    {
+      "name": "Communication",
+      "keywords": [
+        "Cross Disciplinary Collaboration",
+        "Receptive to Constructive Feedback"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Game Development",
+      "keywords": [
+        "Unity",
+        "Godot",
+        "ThreeJS",
+        "C#",
+        "VR"
+      ]
+    }
+  ],
+  "references": [],
+  "projects": [
+    {
+      "name": "RV Management Platform",
+      "description": "A SaaS product that helps RV and Boat malefactors collect, manage, and generate their marketing material from a single system. This system then powers tools for Buyers to find the perfect RV or Boat for their needs and Dealers to generate marketing material, quotes, and technical specifications for their inventory.",
+      "highlights": [],
+      "startDate": "2023-07-01",
+      "endDate": "2024-01-01",
+      "type": "SaaS Product",
+      "keywords": [
+        "NextJS",
+        "Typescript",
+        "TailwindCSS",
+        "GraphQL",
+        "NestJS",
+        "Prisma",
+        "PostgreSQL",
+        "Docker",
+        "Railway"
+      ],
+      "roles": [
+        "Data Architect",
+        "Lead Backend Engineer"
+      ],
+      "entity": "Ferguson Advertising"
+    },
+    {
+      "name": "My Tax Calendar",
+      "description": "My Tax Calendar is a web application that helps users keep track of important tax dates and deadlines.",
+      "highlights": [],
+      "startDate": "2023-06-01",
+      "type": "Web & Mobile Application",
+      "keywords": [
+        "React",
+        "Vite",
+        "Typescript",
+        "TailwindCSS",
+        "Fastify",
+        "TRPC",
+        "Prisma",
+        "PostgreSQL",
+        "Capacitor",
+        "Railway"
+      ],
+      "roles": [
+        "Product Manager",
+        "Software Engineer",
+        "UX Designer"
+      ],
+      "entity": "Peridot Software"
+    },
+    {
+      "name": "Chipsi",
+      "description": "An opinionated personal task management software",
+      "highlights": [],
+      "keywords": [
+        "NuxtJS",
+        "Typescript",
+        "TailwindCSS",
+        "TRPC",
+        "Prisma",
+        "PostgreSQL",
+        "Docker",
+        "Railway"
+      ],
+      "startDate": "2023-12-01",
+      "type": "Web Application"
+    },
+    {
+      "name": "American Coach Platinum Experience",
+      "description": "A mobile app for American Coach RV owners to find guides, manuals, service centers, and more.",
+      "highlights": [],
+      "keywords": [
+        "Angular",
+        "Typescript",
+        "Bulma",
+        "Capacitor",
+        "Firebase"
+      ],
+      "url": "https://www.americancoach.com/platinum-experience/",
+      "startDate": "2020-10-28",
+      "endDate": "2021-06-30",
+      "type": "Mobile Application",
+      "entity": "Ferguson Advertising",
+      "roles": [
+        "Software Engineer"
+      ]
+    }
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2017-12-24T15:53:00"
+  }
+}

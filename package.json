@@ -1,0 +1,18 @@
+{
+  "name": "resume",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "resume serve --theme even",
+    "build": "resume export dist/index.html --theme even",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jsonresume-theme-even": "^0.22.0",
+    "resume-cli": "^3.0.8"
+  }
+}
