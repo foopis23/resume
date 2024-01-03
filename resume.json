@@ -93,6 +93,9 @@
       "name": "Frontend Web App Development",
       "keywords": [
         "NuxtJS",
+        "Vue",
+        "NextJS",
+        "React",
         "TRPC",
         "TailwindCSS",
         "REST",
@@ -178,6 +181,7 @@
       "endDate": "2024-01-01",
       "type": "SaaS Product",
       "keywords": [
+        "React",
         "NextJS",
         "Typescript",
         "TailwindCSS",
@@ -224,6 +228,7 @@
       "description": "An opinionated personal task management software",
       "highlights": [],
       "keywords": [
+        "Vue",
         "NuxtJS",
         "Typescript",
         "TailwindCSS",
