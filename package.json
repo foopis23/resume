@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "resume serve --theme even",
-    "build": "resume export ./dist/index.html --theme even",
+    "build": "mkdir -p dist && resume export ./dist/index.html --theme even",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
