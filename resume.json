@@ -128,6 +128,7 @@
     {
       "name": "Software Architecture",
       "keywords": [
+        "12 Factor App",
         "Microservice Architecture",
         "Database Design",
         "API Design"
@@ -195,7 +196,7 @@
     },
     {
       "name": "My Tax Calendar",
-      "description": "My Tax Calendar is a web application that helps users keep track of important tax dates and deadlines.",
+      "description": "My Tax Calendar is a web application that helps small business owners keep track of important tax dates and deadlines. It also provides tax agencies with a tool to provide their clients with important information and deadlines.",
       "highlights": [],
       "startDate": "2023-06-01",
       "type": "Web & Mobile Application",
