@@ -219,7 +219,7 @@
     },
     {
       "name": "Chipsi",
-      "description": "An opinionated personal task management software",
+      "description": "Opinionated personal task management software emphasizing tasks, events, and maintenance cycles for streamlined organization and productivity.",
       "highlights": [],
       "keywords": [
         "Vue",
