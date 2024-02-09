@@ -196,7 +196,7 @@
       "name": "My Tax Calendar",
       "description": "Many small businesses struggle to manage tax deadlines and requirements, often resorting to hiring Tax Agencies for assistance. However, these agencies were overwhelmed by the manual effort required to track client deadlines and answer basic inquiries. To streamline this process, we are developing a comprehensive application that serves as an intermediary between Tax Agencies and their clients. This platform enables clients to view upcoming deadlines and necessary tax requirements, enhancing their confidence and understanding of their tax positions. As a result, the need for frequent meetings is reduced, while the value of necessary interactions is increased. On the agency side, the application facilitates the creation of to-do lists and reminders for agents, significantly improving efficiency and planning capabilities, especially during peak seasons.",
       "highlights": [],
-      "startDate": "2023-06-01",
+      "startDate": "2023-08-01",
       "type": "Web & Mobile Application",
       "keywords": [
         "React",
