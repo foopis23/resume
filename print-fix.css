@@ -1,5 +1,4 @@
-@media print,
-(min-width: 48em) {
+@media print {
 	.masthead {
 		background: none;
 	}
