@@ -5,7 +5,7 @@
     "label": "Software Engineer",
     "image": "",
     "url": "https://sextonsoftware.dev/",
-    "summary": "I'm Eric Sexton, a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my tech skills at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
+    "summary": "I am a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my tech skills at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
     "location": {
       "address": "12302 Hummingbird Cv",
       "postalCode": "46845",
@@ -33,7 +33,7 @@
       "highlights": [
         "Lead backend development of RV Management Platform, a SaaS product for RV and Boat manufacturers",
         "Led an effort to move self-hosted services to cloud provider and to automate build processes to improve developer efficiency",
-        "Implemented SAML and Auth0 integration for enterprises level clients.",
+        "Implemented SAML and Auth0 integration for enterprises-level clients",
         "Implemented data pipelines to integrate with client's APIs and internal systems",
         "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
         "Utilized Angular, PHP, and WordPress for diverse web development projects"
@@ -42,7 +42,7 @@
     {
       "name": "Copper Loom",
       "location": "Fort Wayne, IN",
-      "description": "Duvet, Comforter, pillow case, and mattress protector company.",
+      "description": "Duvet, comforter, pillowcase, and mattress protector company.",
       "position": "Web Developer",
       "startDate": "2018-07-01",
       "endDate": "2019-02-01",
@@ -60,7 +60,7 @@
       "organization": "PFW ACM - Global Game Jam",
       "position": "Global Game Jam Organizer and Mentor",
       "startDate": "2023-01-01",
-      "summary": "Purdue Fort Wayne's Association of Computers and Machinery is a student organization that hosts events for students to learn about computer science and network with other students and professionals.",
+      "summary": "Purdue Fort Wayne's Association of Computing Machinery is a student organization that hosts events for students to learn about computer science and network with other students and professionals.",
       "highlights": [
         "Helped organize and run the Global Game Jam at Purdue Fort Wayne",
         "Gave an intro to Unity Workshop for Students",
@@ -92,9 +92,9 @@
     {
       "name": "Frontend Web App Development",
       "keywords": [
-        "NuxtJS",
+        "Nuxt",
         "Vue",
-        "NextJS",
+        "Next.js",
         "React",
         "TRPC",
         "TailwindCSS",
@@ -175,7 +175,7 @@
       "type": "SaaS Product",
       "keywords": [
         "React",
-        "NextJS",
+        "Next.js",
         "Typescript",
         "TailwindCSS",
         "GraphQL",
@@ -222,7 +222,7 @@
       "highlights": [],
       "keywords": [
         "Vue",
-        "NuxtJS",
+        "Nuxt",
         "Typescript",
         "TailwindCSS",
         "TRPC",
