@@ -31,11 +31,11 @@
       "startDate": "2019-05-01",
       "summary": "",
       "highlights": [
-        "Designed the architecture for the company's first SaaS product (RV Management Platform) using Node.js, Typescript, Prisma, PostgreSQL, and React.js",
+        "Lead backend development of RV Management Platform, a SaaS product for RV and Boat manufacturers",
         "Led an effort to move self-hosted services to cloud provider and to automate build processes to improve developer efficiency",
         "Implemented SAML and Auth0 integration for enterprises level clients.",
+        "Implemented data pipelines to integrate with client's APIs and internal systems",
         "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
-        "Integrated headless CMS platforms like PayloadCMS for seamless content management",
         "Utilized Angular, PHP, and WordPress for diverse web development projects"
       ]
     },
@@ -169,7 +169,7 @@
   "projects": [
     {
       "name": "RV Management Platform",
-      "description": "A SaaS product that helps RV and Boat malefactors collect, manage, and generate their marketing material from a single system. This system then powers tools for Buyers to find the perfect RV or Boat for their needs and Dealers to generate marketing material, quotes, and technical specifications for their inventory.",
+      "description": "When working with our clients, we found that many of them were struggle to utilize their existing manufacturing data to empower dealerships and generate leads. We created a product that will import and organize their data in a way that can power a number of different applications and services. Examples in include Vehicle Builders, Brochure Generators, Sales Team Portals, Customer Portals, and more.",
       "highlights": [],
       "startDate": "2023-07-01",
       "endDate": "2024-01-01",
@@ -194,7 +194,7 @@
     },
     {
       "name": "My Tax Calendar",
-      "description": "My Tax Calendar is a web application that helps small business owners keep track of important tax dates and deadlines. It also provides tax agencies with a tool to provide their clients with important information and deadlines.",
+      "description": "Many small business struggle to keep up with tax deadlines and requirements, so they reach out to a Tax Agency to solve it for them. We found that a lot of Tax Agencies were spending way to much time manually tracking their clients deadlines and meeting with them to explain simple questions. Our solution was to create an application what would act as the point of contact between the Tax Agency and the Customer. The Customer will see a list of deadlines and requirements on their so they can feel more confident about where they stand with their taxes, hopefully reducing the number of meeting and increasing the value of meetings that do happen. The Tax Agency will be able to use their list of clients to produce todo lists and reminders for their agents. This allows for Tax Agencies to plan and work more efficiently for busy seasons.",
       "highlights": [],
       "startDate": "2023-06-01",
       "type": "Web & Mobile Application",
@@ -219,7 +219,7 @@
     },
     {
       "name": "Chipsi",
-      "description": "Opinionated personal task management software emphasizing tasks, events, and maintenance cycles for streamlined organization and productivity.",
+      "description": "I found that I do not enjoy any of the task management/planner apps out there. The all fall into two buckets, too simple or too configurable. I want a powerful, but opinionated task management software for people who think like me. The main idea is that \"tasks\" really fall into like 3 buckets. There are todo, events, and maintenance cycles. Todos are a list of things that can be completed immediately if necessary, like a traditional todo list. Events are things that need to be done at a specific time. Maintenance cycles are things that need to be done on a regular basis, but not at a specific time.",
       "highlights": [],
       "keywords": [
         "Vue",
