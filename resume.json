@@ -172,7 +172,6 @@
       "description": "During our collaboration with clients, we identified a common challenge: they were unable to leverage their existing manufacturing data effectively to boost dealership capabilities and generate sales leads. To address this, we developed a SaaS product that imports and organizes their data, enabling the deployment of various applications and services. This solution is designed to be flexible, meeting specific tenant data requirements. It powers a range of applications, including Vehicle Builders (for lead generation), Brochure Generators, Sales Team Portals, and Customer Portals, among others.",
       "highlights": [],
       "startDate": "2023-07-01",
-      "endDate": "2024-01-01",
       "type": "SaaS Product",
       "keywords": [
         "React",
