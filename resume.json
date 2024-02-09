@@ -169,7 +169,7 @@
   "projects": [
     {
       "name": "RV Management Platform",
-      "description": "When working with our clients, we found that many of them were struggle to utilize their existing manufacturing data to empower dealerships and generate leads. We created a product that will import and organize their data in a way that can power a number of different applications and services. Examples in include Vehicle Builders, Brochure Generators, Sales Team Portals, Customer Portals, and more.",
+      "description": "When working with our clients, we found that many of them were struggling to utilize their existing manufacturing data to empower dealerships and to generate sales leads. We created a product that will import and organize their data in a way that can power a number of different applications and services while still being flexible enough to accommodate tenant specific data needs. Example Services and Application include Vehicle Builders (for lead generation), Brochure Generators, Sales Team Portals, Customer Portals, and more.",
       "highlights": [],
       "startDate": "2023-07-01",
       "endDate": "2024-01-01",
