@@ -169,7 +169,7 @@
   "projects": [
     {
       "name": "RV Management Platform",
-      "description": "When working with our clients, we found that many of them were struggling to utilize their existing manufacturing data to empower dealerships and to generate sales leads. We created a product that will import and organize their data in a way that can power a number of different applications and services while still being flexible enough to accommodate tenant specific data needs. Example Services and Application include Vehicle Builders (for lead generation), Brochure Generators, Sales Team Portals, Customer Portals, and more.",
+      "description": "During our collaboration with clients, we identified a common challenge: they were unable to leverage their existing manufacturing data effectively to boost dealership capabilities and generate sales leads. To address this, we developed a SaaS product that imports and organizes their data, enabling the deployment of various applications and services. This solution is designed to be flexible, meeting specific tenant data requirements. It powers a range of applications, including Vehicle Builders (for lead generation), Brochure Generators, Sales Team Portals, and Customer Portals, among others.",
       "highlights": [],
       "startDate": "2023-07-01",
       "endDate": "2024-01-01",
@@ -194,7 +194,7 @@
     },
     {
       "name": "My Tax Calendar",
-      "description": "Many small business struggle to keep up with tax deadlines and requirements, so they reach out to a Tax Agency to solve it for them. We found that a lot of Tax Agencies were spending way to much time manually tracking their clients deadlines and meeting with them to explain simple questions. Our solution was to create an application what would act as the point of contact between the Tax Agency and the Customer. The Customer will see a list of deadlines and requirements on their so they can feel more confident about where they stand with their taxes, hopefully reducing the number of meeting and increasing the value of meetings that do happen. The Tax Agency will be able to use their list of clients to produce todo lists and reminders for their agents. This allows for Tax Agencies to plan and work more efficiently for busy seasons.",
+      "description": "Many small businesses struggle to manage tax deadlines and requirements, often resorting to hiring Tax Agencies for assistance. However, these agencies were overwhelmed by the manual effort required to track client deadlines and answer basic inquiries. To streamline this process, we are developing a comprehensive application that serves as an intermediary between Tax Agencies and their clients. This platform enables clients to view upcoming deadlines and necessary tax requirements, enhancing their confidence and understanding of their tax positions. As a result, the need for frequent meetings is reduced, while the value of necessary interactions is increased. On the agency side, the application facilitates the creation of to-do lists and reminders for agents, significantly improving efficiency and planning capabilities, especially during peak seasons.",
       "highlights": [],
       "startDate": "2023-06-01",
       "type": "Web & Mobile Application",
@@ -219,7 +219,7 @@
     },
     {
       "name": "Chipsi",
-      "description": "I found that I do not enjoy any of the task management/planner apps out there. The all fall into two buckets, too simple or too configurable. I want a powerful, but opinionated task management software for people who think like me. The main idea is that \"tasks\" really fall into like 3 buckets. There are todo, events, and maintenance cycles. Todos are a list of things that can be completed immediately if necessary, like a traditional todo list. Events are things that need to be done at a specific time. Maintenance cycles are things that need to be done on a regular basis, but not at a specific time.",
+      "description": "Dissatisfied with the existing task management and planner applications, which I found either overly simplistic or excessively customizable, I decided to develop \"Chipsi\" – a powerful yet opinionated task management software made for individuals with a similar mindset to my own. The core philosophy behind Chipsi is the categorization of tasks into three distinct types: todos, events, and maintenance cycles. Todos encompass tasks that can be executed immediately, akin to traditional to-do lists. Events are tasks scheduled for specific times, requiring timely action. Maintenance cycles refer to tasks that recur regularly without necessitating a fixed schedule. This classification aims to streamline task management, making it more intuitive and aligned with the user's natural categorization of tasks.",
       "highlights": [],
       "keywords": [
         "Vue",
@@ -231,6 +231,10 @@
         "PostgreSQL",
         "Docker",
         "Railway"
+      ],
+      "roles": [
+        "Founder",
+        "Lead Developer"
       ],
       "startDate": "2023-12-01",
       "type": "Web Application"
