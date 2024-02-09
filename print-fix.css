@@ -1,0 +1,15 @@
+@media print,
+(min-width: 48em) {
+	.masthead {
+		background: none;
+	}
+
+	body {
+		-webkit-print-color-adjust: exact;
+		print-color-adjust: exact;
+	}
+
+	article {
+		break-inside: avoid;
+	}
+}
