@@ -5,7 +5,7 @@
     "label": "Software Engineer",
     "image": "",
     "url": "https://sextonsoftware.dev/",
-    "summary": "I am a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my tech skills at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
+    "summary": "I am a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my role as a Software Engineer at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
     "location": {
       "address": "12302 Hummingbird Cv",
       "postalCode": "46845",
@@ -31,10 +31,11 @@
       "startDate": "2019-05-01",
       "summary": "",
       "highlights": [
-        "Lead backend development of RV Management Platform, a SaaS product for RV and Boat manufacturers",
-        "Led an effort to move self-hosted services to cloud provider and to automate build processes to improve developer efficiency",
+        "Lead backend development of RV Management Platform, a SaaS product for RV and Boat manufacturers using PostgresSQL, Prisma, NestJS, GraphQL and Next.js",
+        "Led an effort to dockerize and migrate self-hosted services to Railway for improved scalability, reliability, and efficiency",
+        "Led an effort to automated building, testing, and deployment using Github Actions to improve developer efficiency",
         "Implemented SAML and Auth0 integration for enterprises-level clients",
-        "Implemented data pipelines to integrate with client's APIs and internal systems",
+        "Implemented data pipelines for multiple client in NodeJS to integrate with client's REST APIs, SOAP APIs, Spreadsheet Exports, etc",
         "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
         "Utilized Angular, PHP, and WordPress for diverse web development projects"
       ]
