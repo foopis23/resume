@@ -35,7 +35,7 @@
         "Led an effort to dockerize and migrate self-hosted services to Railway for improved scalability, reliability, and efficiency",
         "Led an effort to automated building, testing, and deployment using Github Actions to improve developer efficiency",
         "Implemented SAML and Auth0 integration for enterprises-level clients",
-        "Implemented data pipelines for multiple client in NodeJS to integrate with client's REST APIs, SOAP APIs, Spreadsheet Exports, etc",
+        "Implemented data pipelines for multiple clients in NodeJS to integrate with internal systems through REST APIs, SOAP APIs, Spreadsheet Exports, etc",
         "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
         "Utilized Angular, PHP, and WordPress for diverse web development projects"
       ]
