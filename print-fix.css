@@ -1,6 +1,7 @@
 @media print {
 	.masthead {
 		background: none;
+		padding: 0;
 	}
 
 	body {
