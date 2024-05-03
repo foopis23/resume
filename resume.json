@@ -5,7 +5,7 @@
     "label": "Software Engineer",
     "image": "",
     "url": "https://sextonsoftware.dev/",
-    "summary": "I am a personable Software Engineer with a Computer Science degree from Purdue Fort Wayne. Beyond my role as a Software Engineer at Ferguson Advertising, I'm actively involved in the community as a Global Game Jam Organizer and Mentor. Passionate about game development and collaboration, I bring a proactive and adaptable nature to projects. Eager to contribute character and skills to innovative teams.",
+    "summary": "Software engineer with a strong background in both front-end and back-end development, specializing in scalable web applications. Actively involved in the tech community and passionate about game development and mentoring. Looking to leverage my technical and collaborative skills in a dynamic team.",
     "location": {
       "address": "12302 Hummingbird Cv",
       "postalCode": "46845",
@@ -31,13 +31,10 @@
       "startDate": "2019-05-01",
       "summary": "",
       "highlights": [
-        "Lead backend development of RV Management Platform, a SaaS product for RV and Boat manufacturers using PostgresSQL, Prisma, NestJS, GraphQL and Next.js",
-        "Led an effort to dockerize and migrate self-hosted services to Railway for improved scalability, reliability, and efficiency",
-        "Led an effort to automated building, testing, and deployment using Github Actions to improve developer efficiency",
-        "Implemented SAML and Auth0 integration for enterprises-level clients",
-        "Implemented data pipelines for multiple clients in NodeJS to integrate with internal systems through REST APIs, SOAP APIs, Spreadsheet Exports, etc",
-        "Developed scalable REST APIs using Node.js and built intuitive front-end interfaces with Nuxt.js",
-        "Utilized Angular, PHP, and WordPress for diverse web development projects"
+        "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS and Next.js.",
+        "Enhanced deployment processes via Docker and Railway, improving system reliability and developer workflow with automated CI/CD.",
+        "Spearheaded integrations with enterprise-level security using SAML and Auth0.",
+        "Developed multiple REST and GraphQL APIs and front-end interfaces, significantly improving client-side experiences."
       ]
     },
     {
@@ -49,10 +46,8 @@
       "endDate": "2019-02-01",
       "summary": "",
       "highlights": [
-        "Developed and maintained company website using WordPress and WooCommerce",
-        "Implemented custom WordPress plugins to extend functionality of WooCommerce",
-        "Created custom WordPress themes using PHP, HTML, CSS, and Javascript",
-        "Utilized Google Analytics to track user behavior and improve conversion rates"
+        "Managed full-stack development of the e-commerce platform using WordPress and WooCommerce.",
+        "Designed and implemented custom themes and plugins enhancing site functionality and user engagement."
       ]
     }
   ],
@@ -63,17 +58,9 @@
       "startDate": "2023-01-01",
       "summary": "Purdue Fort Wayne's Association of Computing Machinery is a student organization that hosts events for students to learn about computer science and network with other students and professionals.",
       "highlights": [
-        "Helped organize and run the Global Game Jam at Purdue Fort Wayne",
-        "Gave an intro to Unity Workshop for Students",
-        "Acted as a mentor for students during the Global Game Jam"
+        "Organized annual game dev events, facilitated workshops, and mentored students in game development technologies."
       ],
       "url": "https://globalgamejam.org/jam-sites/2024/purdue-fort-wayne"
-    },
-    {
-      "organization": "PFW - CS105",
-      "position": "Guest Speaker",
-      "startDate": "2022-08-01",
-      "url": "https://www.pfw.edu/"
     }
   ],
   "education": [
@@ -93,99 +80,47 @@
     {
       "name": "Frontend Web App Development",
       "keywords": [
-        "Nuxt",
+        "React",
         "Vue",
         "Next.js",
-        "React",
-        "TRPC",
-        "TailwindCSS",
-        "REST",
-        "GraphQL",
-        "Typescript",
-        "JSON",
-        "HTML",
-        "CSS"
+        "Nuxt",
+        "TailwindCSS"
       ]
     },
     {
       "name": "Backend Web App Development",
       "keywords": [
-        "NodeJS",
-        "Express",
+        "Node.js",
         "NestJS",
-        "PayloadCMS",
-        "Prisma",
+        "Fastify",
         "PostgreSQL",
         "Docker"
       ]
     },
     {
-      "name": "CI/CD",
+      "name": "DevOps",
       "keywords": [
-        "Github Actions",
-        "Docker",
-        "Railway",
-        "Terraform",
-        "GCP"
+        "GitHub Actions",
+        "CI/CD",
+        "Railway"
       ]
     },
     {
-      "name": "Software Architecture",
+      "name": "Other",
       "keywords": [
-        "12 Factor App",
-        "Microservice Architecture",
-        "Database Design",
-        "API Design"
-      ]
-    },
-    {
-      "name": "Agile Development",
-      "keywords": [
-        "Scrum",
-        "Jira",
-        "Kanban"
-      ]
-    },
-    {
-      "name": "Communication",
-      "keywords": [
-        "Cross Disciplinary Collaboration",
-        "Receptive to Constructive Feedback"
-      ]
-    }
-  ],
-  "interests": [
-    {
-      "name": "Game Development",
-      "keywords": [
-        "Unity",
-        "Godot",
-        "ThreeJS",
-        "C#",
-        "VR"
+        "Agile Methodologies",
+        "Software Architecture", 
+        "Game Development"
       ]
     }
   ],
   "references": [],
   "projects": [
     {
-      "name": "RV Management Platform",
-      "description": "During our collaboration with clients, we identified a common challenge: they were unable to leverage their existing manufacturing data effectively to boost dealership capabilities and generate sales leads. To address this, we developed a SaaS product that imports and organizes their data, enabling the deployment of various applications and services. This solution is designed to be flexible, meeting specific tenant data requirements. It powers a range of applications, including Vehicle Builders (for lead generation), Brochure Generators, Sales Team Portals, and Customer Portals, among others.",
+      "name": "RV Product Information System",
+      "description": "Developed a SaaS product enhancing data utilization among sales teams for RV and Boat manufacturers.",
       "highlights": [],
       "startDate": "2023-07-01",
-      "type": "SaaS Product",
-      "keywords": [
-        "React",
-        "Next.js",
-        "Typescript",
-        "TailwindCSS",
-        "GraphQL",
-        "NestJS",
-        "Prisma",
-        "PostgreSQL",
-        "Docker",
-        "Railway"
-      ],
       "roles": [
         "Data Architect",
         "Lead Backend Engineer"
@@ -194,70 +129,16 @@
     },
     {
       "name": "My Tax Calendar",
-      "description": "Many small businesses struggle to manage tax deadlines and requirements, often resorting to hiring Tax Agencies for assistance. However, these agencies were overwhelmed by the manual effort required to track client deadlines and answer basic inquiries. To streamline this process, we are developing a comprehensive application that serves as an intermediary between Tax Agencies and their clients. This platform enables clients to view upcoming deadlines and necessary tax requirements, enhancing their confidence and understanding of their tax positions. As a result, the need for frequent meetings is reduced, while the value of necessary interactions is increased. On the agency side, the application facilitates the creation of to-do lists and reminders for agents, significantly improving efficiency and planning capabilities, especially during peak seasons.",
+      "description": "Leading the development of a tax management application design to reducing the load on tax agencies.",
       "highlights": [],
       "startDate": "2023-08-01",
       "type": "Web & Mobile Application",
-      "keywords": [
-        "React",
-        "Vite",
-        "Typescript",
-        "TailwindCSS",
-        "Fastify",
-        "TRPC",
-        "Prisma",
-        "PostgreSQL",
-        "Capacitor",
-        "Railway"
-      ],
       "roles": [
         "Product Manager",
         "Software Engineer",
         "UX Designer"
       ],
       "entity": "Peridot Software"
-    },
-    {
-      "name": "Chipsi",
-      "description": "Dissatisfied with the existing task management and planner applications, which I found either overly simplistic or excessively customizable, I decided to develop \"Chipsi\" – a powerful yet opinionated task management software made for individuals with a similar mindset to my own. The core philosophy behind Chipsi is the categorization of tasks into three distinct types: todos, events, and maintenance cycles. Todos encompass tasks that can be executed immediately, akin to traditional to-do lists. Events are tasks scheduled for specific times, requiring timely action. Maintenance cycles refer to tasks that recur regularly without necessitating a fixed schedule. This classification aims to streamline task management, making it more intuitive and aligned with the user's natural categorization of tasks.",
-      "highlights": [],
-      "keywords": [
-        "Vue",
-        "Nuxt",
-        "Typescript",
-        "TailwindCSS",
-        "TRPC",
-        "Prisma",
-        "PostgreSQL",
-        "Docker",
-        "Railway"
-      ],
-      "roles": [
-        "Founder",
-        "Lead Developer"
-      ],
-      "startDate": "2023-12-01",
-      "type": "Web Application"
-    },
-    {
-      "name": "American Coach Platinum Experience",
-      "description": "A mobile app for American Coach RV owners to find guides, manuals, service centers, and more.",
-      "highlights": [],
-      "keywords": [
-        "Angular",
-        "Typescript",
-        "Bulma",
-        "Capacitor",
-        "Firebase"
-      ],
-      "url": "https://www.americancoach.com/platinum-experience/",
-      "startDate": "2020-10-28",
-      "endDate": "2021-06-30",
-      "type": "Mobile Application",
-      "entity": "Ferguson Advertising",
-      "roles": [
-        "Software Engineer"
-      ]
     }
   ],
   "meta": {
