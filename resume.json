@@ -90,8 +90,7 @@
         "Node.js",
         "NestJS",
         "Fastify",
-        "PostgreSQL",
-        "Docker"
+        "PostgreSQL"
       ]
     },
     {
@@ -99,7 +98,9 @@
       "keywords": [
         "GitHub Actions",
         "CI/CD",
-        "Railway"
+        "Docker",
+        "Google Cloud Platform",
+        "Terraform"
       ]
     },
     {
