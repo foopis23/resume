@@ -7,8 +7,6 @@
     "url": "https://sextonsoftware.dev/",
     "summary": "Software engineer with a strong background in both front-end and back-end development, specializing in scalable web applications. Actively involved in the tech community and passionate about game development and mentoring. Looking to leverage my technical and collaborative skills in a dynamic team.",
     "location": {
-      "address": "12302 Hummingbird Cv",
-      "postalCode": "46845",
       "city": "Fort Wayne",
       "countryCode": "US",
       "region": "Indiana"
@@ -23,12 +21,12 @@
   },
   "work": [
     {
-      "position": "Consulting Software Engineer",
-      "company": "AInvoice",
-      "employmentType": "Contract",
-      "startDate": "2024-06-01",
+      "name": "AInvoice",
       "location": "Remote",
-      "summary": "As a Technology Consultant at AInvoice, I play a pivotal role in shaping the company's technological landscape. My responsibilities include:",
+      "startDate": "2024-06-01",
+      "position": "Consulting Software Engineer",
+      "description": "As a Technology Consultant at AInvoice, I play a pivotal role in shaping the company's technological landscape.",
+      "summary": "",
       "highlights": [
         "High-Level Technology Consultation: Advising on strategic technology decisions to drive innovation and efficiency in our AI-driven invoice and packing list processing solutions.",
         "Feature Implementation: Developing and deploying new features that enhance our product offerings, ensuring they meet both user needs and business goals.",
