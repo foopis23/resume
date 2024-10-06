@@ -4,7 +4,6 @@
     "name": "Eric Sexton",
     "label": "Software Engineer",
     "image": "",
-    "url": "https://sextonsoftware.dev/",
     "summary": "Software engineer with a strong background in both front-end and back-end development, specializing in scalable web applications. Actively involved in the tech community and passionate about game development and mentoring. Looking to leverage my technical and collaborative skills in a dynamic team.",
     "location": {
       "city": "Fort Wayne",
@@ -16,6 +15,16 @@
         "network": "Github",
         "username": "foopis23",
         "url": "https://github.com/foopis23"
+      },
+      {
+        "network": "LinkedIn",
+        "username": "Eric Sexton",
+        "url": "https://www.linkedin.com/in/eric-sexton-5a3042222/"
+      },
+      {
+        "network": "Itch.io",
+        "username": "foopis23",
+        "url": "https://foopis23.itch.io/"
       }
     ]
   },
