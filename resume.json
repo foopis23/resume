@@ -37,9 +37,9 @@
       "description": "AInvoice is a SaaS startup that automates invoice, packing list, and order form processing using AI and traditional data processing techniques.",
       "summary": "As a Technology Consultant at AInvoice, I play a pivotal role in shaping the company's technological landscape.",
       "highlights": [
-        "High-Level Technology Consultation: Advising on strategic technology decisions to drive innovation and efficiency in our AI-driven invoice and packing list processing solutions.",
-        "Feature Implementation: Developing and deploying new features that enhance our product offerings, ensuring they meet both user needs and business goals.",
-        "Task Management Organization: Streamlining and organizing task management processes to improve team productivity and project tracking."
+        "Consulted on technical architecture and high-level technology decisions. This has lead to enhancements in observability and developer agility by integrating tools such as GitHub Actions, Docker, GlitchTip, and Drizzle ORM.",
+        "Implemented full-stack features in a NextJS + MySQL stack to meet business objectives and ensure tenant satisfaction.",
+        "Streamlined task management processes to boost team productivity and project tracking."
       ]
     },
     {
