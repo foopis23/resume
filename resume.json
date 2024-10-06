@@ -25,8 +25,8 @@
       "location": "Remote",
       "startDate": "2024-06-01",
       "position": "Consulting Software Engineer",
-      "description": "As a Technology Consultant at AInvoice, I play a pivotal role in shaping the company's technological landscape.",
-      "summary": "",
+      "description": "AInvoice is a SaaS startup that automates invoice, packing list, and order form processing using AI and traditional data processing techniques.",
+      "summary": "As a Technology Consultant at AInvoice, I play a pivotal role in shaping the company's technological landscape.",
       "highlights": [
         "High-Level Technology Consultation: Advising on strategic technology decisions to drive innovation and efficiency in our AI-driven invoice and packing list processing solutions.",
         "Feature Implementation: Developing and deploying new features that enhance our product offerings, ensuring they meet both user needs and business goals.",
@@ -118,7 +118,7 @@
       "name": "Other",
       "keywords": [
         "Agile Methodologies",
-        "Software Architecture", 
+        "Software Architecture",
         "Game Development"
       ]
     }
