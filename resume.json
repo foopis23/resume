@@ -124,41 +124,16 @@
       ]
     },
     {
-      "name": "Other",
+      "name": "Data Engineering",
       "keywords": [
-        "Agile Methodologies",
-        "Software Architecture",
-        "Game Development"
+        "Looker",
+        "PostgreSQL",
+        "Data Modeling",
+        "Data Pipeline Methodologies"
       ]
     }
   ],
   "references": [],
-  "projects": [
-    {
-      "name": "RV Product Information System",
-      "description": "Developed a SaaS product enhancing data utilization among sales teams for RV and Boat manufacturers.",
-      "highlights": [],
-      "startDate": "2023-07-01",
-      "roles": [
-        "Data Engineer",
-        "Backend Engineer"
-      ],
-      "entity": "Ferguson Advertising"
-    },
-    {
-      "name": "My Tax Calendar",
-      "description": "Leading the development of a tax management application design to reducing the load on tax agencies.",
-      "highlights": [],
-      "startDate": "2023-08-01",
-      "type": "Web & Mobile Application",
-      "roles": [
-        "Product Manager",
-        "Software Engineer",
-        "UX Designer"
-      ],
-      "entity": "Peridot Software"
-    }
-  ],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
     "version": "v1.0.0",
