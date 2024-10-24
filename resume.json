@@ -53,8 +53,7 @@
       "highlights": [
         "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS and Next.js.",
         "Enhanced deployment processes via Docker and Railway, improving system reliability and developer workflow with automated CI/CD.",
-        "Spearheaded integrations with enterprise-level security using SAML and Auth0.",
-        "Developed multiple REST and GraphQL APIs and front-end interfaces, significantly improving client-side experiences."
+        "Spearheaded integrations with enterprise-level security using SAML and Auth0."
       ]
     },
     {
