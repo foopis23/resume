@@ -38,12 +38,12 @@
       "url": "https://www.pioneerclimate.com/"
     },
     {
-      "name": "AInvoice",
+      "name": "Blimpworks",
       "location": "Remote",
       "startDate": "2024-06-01",
       "endDate": "2024-12-31",
       "position": "Consulting Software Engineer",
-      "description": "AInvoice is a SaaS startup that automates invoice, packing list, and order form processing using AI and traditional data processing techniques.",
+      "description": "Blimpworks is a SaaS startup that automates invoice, packing list, and order form processing using AI.",
       "highlights": [
         "Consulted on technical architecture and high-level technology decisions. This has lead to enhancements in observability and developer agility by integrating tools such as GitHub Actions, Docker, GlitchTip, and Drizzle ORM.",
         "Implemented full-stack features in our NextJS + MySQL stack to meet business objectives and ensure tenant satisfaction.",
@@ -56,14 +56,34 @@
       "description": "Ferguson is a truly full-service agency: Strategy. Advertising. Digital. PR. Social Media. Video. Media.",
       "position": "Software Engineer",
       "url": "https://theferg.com",
-      "startDate": "2019-05-01",
+      "startDate": "2021-05-01",
       "endDate": "2024-12-01",
       "summary": "",
       "highlights": [
-        "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS and Next.js.",
+        "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS, PostgreSQL, and Next.js.",
         "Enhanced deployment processes via Docker and Railway, improving system reliability and developer workflow with automated CI/CD.",
         "Spearheaded integrations with enterprise-level security using SAML and Auth0."
       ]
+    },
+    {
+      "name": "Ferguson Advertising",
+      "location": "Fort Wayne, IN",
+      "description": "Ferguson is a truly full-service agency: Strategy. Advertising. Digital. PR. Social Media. Video. Media.",
+      "position": "Web Developer",
+      "url": "https://theferg.com",
+      "startDate": "2019-05-01",
+      "endDate": "2021-05-01",
+      "summary": ""
+    },
+    {
+      "name": "Ferguson Advertising",
+      "location": "Fort Wayne, IN",
+      "description": "Ferguson is a truly full-service agency: Strategy. Advertising. Digital. PR. Social Media. Video. Media.",
+      "position": "Web Developer Intern",
+      "url": "https://theferg.com",
+      "startDate": "2019-05-01",
+      "endDate": "2019-08-01",
+      "summary": ""
     },
     {
       "name": "Copper Loom",
