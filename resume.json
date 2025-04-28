@@ -30,9 +30,17 @@
   },
   "work": [
     {
+      "name": "Pioneer Climate",
+      "location": "Remote",
+      "startDate": "2024-12-01",
+      "position": "Senior Software Engineer",
+      "description": "Pioneer is a startup that helps companies access government grants, contracts, and tax credits using AI."
+    },
+    {
       "name": "AInvoice",
       "location": "Remote",
       "startDate": "2024-06-01",
+      "endDate": "2024-12-31",
       "position": "Consulting Software Engineer",
       "description": "AInvoice is a SaaS startup that automates invoice, packing list, and order form processing using AI and traditional data processing techniques.",
       "highlights": [
@@ -48,6 +56,7 @@
       "position": "Software Engineer",
       "url": "https://theferg.com",
       "startDate": "2019-05-01",
+      "endDate": "2024-12-01",
       "summary": "",
       "highlights": [
         "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS and Next.js.",
