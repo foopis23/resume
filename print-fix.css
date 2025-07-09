@@ -1,3 +1,7 @@
+body {
+	overscroll-behavior: none;
+}
+
 @media print {
 	.masthead {
 		background: none;
