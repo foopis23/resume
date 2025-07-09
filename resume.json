@@ -28,6 +28,46 @@
       }
     ]
   },
+    "skills": [
+    {
+      "name": "Full Stack Web Development",
+      "keywords": [
+        "TypeScript",
+        "Next.js",
+        "PostgreSQL",
+        "GraphQL/tRPC/REST",
+        "TailwindCSS",
+        "Python"
+      ]
+    },
+    {
+      "name": "DevOps",
+      "keywords": [
+        "GitHub Actions",
+        "Docker",
+        "Google Cloud Platform",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Data Engineering",
+      "keywords": [
+        "Looker",
+        "PostgreSQL",
+        "Data Modeling",
+        "Data Pipeline Methodologies"
+      ]
+    },
+    {
+      "name": "AI Agents",
+      "keywords": [
+        "Mastra",
+        "LangChain/LangGraph",
+        "Vercel AI SDK",
+        "Ollama"
+      ]
+    }
+  ],
   "work": [
     {
       "name": "Pioneer Climate",
@@ -91,16 +131,7 @@
       "summary": ""
     }
   ],
-  "volunteer": [
-    {
-      "organization": "PFW ACM - Global Game Jam",
-      "position": "Global Game Jam Organizer and Mentor",
-      "startDate": "2023-01-01",
-      "summary": "Organized annual game dev events, facilitated workshops, and mentored students in game development technologies.",
-      "url": "https://globalgamejam.org/jam-sites/2024/purdue-fort-wayne"
-    }
-  ],
-  "education": [
+    "education": [
     {
       "institution": "Purdue Fort Wayne University",
       "url": "https://www.pfw.edu/",
@@ -110,48 +141,17 @@
       "score": "3.0"
     }
   ],
-  "awards": [],
-  "publications": [],
-  "skills": [
+  "volunteer": [
     {
-      "name": "Full Stack Web Development",
-      "keywords": [
-        "TypeScript",
-        "Next.js",
-        "PostgreSQL",
-        "GraphQL/tRPC/REST",
-        "TailwindCSS",
-        "Python"
-      ]
-    },
-    {
-      "name": "DevOps",
-      "keywords": [
-        "GitHub Actions",
-        "Docker",
-        "Google Cloud Platform",
-        "Terraform"
-      ]
-    },
-    {
-      "name": "Data Engineering",
-      "keywords": [
-        "Looker",
-        "PostgreSQL",
-        "Data Modeling",
-        "Data Pipeline Methodologies"
-      ]
-    },
-    {
-      "name": "AI Agents",
-      "keywords": [
-        "Mastra",
-        "LangChain/LangGraph",
-        "Vercel AI SDK",
-        "Ollama"
-      ]
+      "organization": "PFW ACM - Global Game Jam",
+      "position": "Global Game Jam Organizer and Mentor",
+      "startDate": "2023-01-01",
+      "summary": "Organized annual game dev events, facilitated workshops, and mentored students in game development technologies.",
+      "url": "https://globalgamejam.org/jam-sites/2024/purdue-fort-wayne"
     }
   ],
+  "awards": [],
+  "publications": [],
   "references": [],
   "meta": {
     "canonical": "https://raw.githubusercontent.com/foopis23/resume/master/resume.json",
