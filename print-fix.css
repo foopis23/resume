@@ -16,4 +16,8 @@
 	article {
 		break-inside: avoid;
 	}
+
+	a {
+		color: rgb(25, 30, 35);
+	}
 }

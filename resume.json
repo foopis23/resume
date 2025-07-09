@@ -35,7 +35,13 @@
       "startDate": "2024-12-01",
       "position": "Senior Software Engineer",
       "description": "Pioneer is a startup that helps companies access government grants, contracts, and tax credits using AI.",
-      "url": "https://www.pioneerclimate.com/"
+      "url": "https://www.pioneerclimate.com/",
+      "highlights": [
+        "Built and maintained existing AI agents that automate grants, contracts, discovery using Mastra and Vercel AI SDK.",
+        "Developed fullstack features in a NextJS + Supabase stack for a new SaaS product.",
+        "Collaborated on Product Design and User Experience to ensure our product was intuitive and user-friendly.",
+        "Simplified and optimized build pipelines in Github Actions and Terraform"
+      ]
     },
     {
       "name": "Blimpworks",
@@ -43,6 +49,7 @@
       "startDate": "2024-06-01",
       "endDate": "2024-12-31",
       "position": "Consulting Software Engineer",
+      "url": "https://blimpworks.ai/",
       "description": "Blimpworks is a SaaS startup that automates invoice, packing list, and order form processing using AI.",
       "highlights": [
         "Consulted on technical architecture and high-level technology decisions. This has lead to enhancements in observability and developer agility by integrating tools such as GitHub Actions, Docker, GlitchTip, and Drizzle ORM.",
@@ -146,6 +153,15 @@
         "PostgreSQL",
         "Data Modeling",
         "Data Pipeline Methodologies"
+      ]
+    },
+    {
+      "name": "AI Agents",
+      "keywords": [
+        "Mastra",
+        "LangChain/LangGraph",
+        "Vercel AI SDK",
+        "Ollama"
       ]
     }
   ],
