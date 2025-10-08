@@ -73,8 +73,8 @@
       "name": "Pioneer Climate",
       "location": "Remote",
       "startDate": "2024-12-01",
-      "position": "Senior Software Engineer",
-      "description": "Pioneer is a startup that helps companies access grants and tax credits using AI.",
+      "position": "Funding Engineer",
+      "description": "A startup that aims to help BD operators win partnerships, customers, and grants.",
       "url": "https://www.pioneerclimate.com/",
       "highlights": [
         "Built and maintained AI agents that automate grants, contracts, discovery using Mastra and Vercel AI SDK.",
