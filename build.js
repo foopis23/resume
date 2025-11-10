@@ -1,9 +1,9 @@
-import * as baseTheme from 'jsonresume-theme-even';
+import * as theme from './theme.js';
 import resume from './resume.json';
 import fs from 'fs';
 
 async function build() {
-  const html = await baseTheme.render(resume);
+  const html = await theme.render(resume);
   // clear dist folder if it exists
   if (fs.existsSync('dist')) {
     fs.rmSync('dist', { recursive: true });
