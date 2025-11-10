@@ -22,7 +22,7 @@ export function render(resume) {
           -webkit-print-color-adjust: exact;
           print-color-adjust: exact;
           gap: 1rem;
-          grid-template-columns: [full-start] 1fr [main-start side-start] minmax(min-content, 1em) [side-end content-start] minmax(min-content, 60em) [main-end content-end] 1fr [full-end];
+          grid-template-columns: [full-start] 1fr [main-start side-start] minmax(min-content, 7.25em) [side-end content-start] minmax(min-content, 60em) [main-end content-end] 1fr [full-end];
         }
 
         article {
