@@ -108,7 +108,8 @@
       "endDate": "2024-12-01",
       "summary": "",
       "highlights": [
-        "Led backend development for a SaaS RV Management Platform using a modern tech stack including NestJS, PostgreSQL, and Next.js.",
+        "Led backend development for a RV Production Information Platform using a modern tech stack including NestJS, PostgreSQL, and Next.js.",
+        "Enhanced error tracking and resolution by implementing GlitchTip",
         "Enhanced deployment processes via Docker and Railway, improving system reliability and developer workflow with automated CI/CD.",
         "Spearheaded integrations with enterprise-level security using SAML and Auth0."
       ]
@@ -126,7 +127,7 @@
       "name": "Copper Loom",
       "location": "Fort Wayne, IN",
       "description": "Duvet, comforter, pillowcase, and mattress protector company.",
-      "position": "Web Developer",
+      "position": "Wordpress Developer",
       "startDate": "2018-07-01",
       "endDate": "2019-02-01",
       "summary": ""
@@ -144,7 +145,7 @@
   ],
   "volunteer": [
     {
-      "organization": "PFW ACM - Global Game Jam",
+      "organization": "PFW Global Game Jam",
       "position": "Global Game Jam Organizer and Mentor",
       "startDate": "2023-01-01",
       "summary": "Organized annual game dev events, facilitated workshops, and mentored students in game development technologies.",
