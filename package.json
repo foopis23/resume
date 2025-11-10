@@ -1,22 +1,17 @@
 {
-  "name": "resume",
+  "name": "jsonresume-theme-eric",
   "version": "1.0.0",
-  "description": "",
+  "description": "A custom JSON Resume theme",
   "main": "index.js",
   "type": "module",
+  "keywords": ["jsonresume", "jsonresume-theme"],
+  "license": "MIT",
   "scripts": {
-    "dev": "resume serve --theme even",
-    "build": "mkdir -p dist && resume export ./dist/index.html --theme even && npm run post-build",
-    "post-build": "node post-build.js dist/index.html print-fix.css"
+    "dev": "bun --hot dev.js",
+    "build": "bun build.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "devDependencies": {
     "jsonresume-theme-even": "^0.22.0",
     "resume-cli": "^3.0.8"
-  },
-  "dependencies": {
-    "node-html-parser": "^6.1.12"
   }
 }
