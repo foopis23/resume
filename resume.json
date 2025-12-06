@@ -6,9 +6,9 @@
     "image": "",
     "summary": "Curious Software Engineer who thrives on collaboration with talented teams, passionate about exploring technology, and dedicated to delivering efficient, value-driven solutions.",
     "location": {
-      "city": "Chicago",
+      "city": "Fort Wayne",
       "countryCode": "US",
-      "region": "Illinois"
+      "region": "Indiana"
     },
     "profiles": [
       {
@@ -36,8 +36,7 @@
         "Next.js",
         "PostgreSQL",
         "GraphQL/tRPC/REST",
-        "TailwindCSS",
-        "Python"
+        "TailwindCSS"
       ]
     },
     {
@@ -63,7 +62,8 @@
       "keywords": [
         "Mastra",
         "LangChain/LangGraph",
-        "Vercel AI SDK",
+        "OpenAI",
+        "Gemini",
         "Ollama"
       ]
     }
@@ -99,12 +99,19 @@
       ]
     },
     {
+      "name": "Purdue University Fort Wayne",
+      "position": "CS 36400 - Introduction To Database Systems TA",
+      "url": "https://www.pfw.edu/",
+      "startDate": "2021-01-01",
+      "endDate": "2021-05-01"
+    },
+    {
       "name": "Ferguson Advertising",
       "location": "Fort Wayne, IN",
       "description": "Ferguson is a full-service agency marketing agency.",
       "position": "Software Engineer",
       "url": "https://theferg.com",
-      "startDate": "2021-05-01",
+      "startDate": "2019-08-01",
       "endDate": "2024-12-01",
       "summary": "",
       "highlights": [
@@ -113,15 +120,6 @@
         "Enhanced deployment processes via Docker and Railway, improving system reliability and developer workflow with automated CI/CD.",
         "Spearheaded integrations with enterprise-level security using SAML and Auth0."
       ]
-    },
-    {
-      "name": "Ferguson Advertising",
-      "description": "Ferguson is a full-service agency marketing agency.",
-      "position": "Web Developer",
-      "url": "https://theferg.com",
-      "startDate": "2019-08-01",
-      "endDate": "2021-05-01",
-      "summary": ""
     },
     {
       "name": "Copper Loom",
@@ -135,7 +133,7 @@
   ],
     "education": [
     {
-      "institution": "Purdue Fort Wayne University",
+      "institution": "Purdue University Fort Wayne",
       "url": "https://www.pfw.edu/",
       "area": "BS in Computer Science",
       "startDate": "2018-08-20",
@@ -145,7 +143,7 @@
   ],
   "volunteer": [
     {
-      "organization": "Purdue Fort Wayne University",
+      "organization": "Purdue University Fort Wayne",
       "position": "Global Game Jam Organizer and Mentor",
       "startDate": "2023-01-01",
       "summary": "Organized annual game dev events, facilitated workshops, and mentored students in game development technologies.",
