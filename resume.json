@@ -70,9 +70,18 @@
   ],
   "work": [
     {
+      "name": "Ivy Tech Community College",
+      "location": "Fort Wayne, IN",
+      "startDate": "2025-05-01",
+      "position": "Software Development Instructor",
+      "description": "",
+      "url": "https://www.ivytech.edu/",
+    },
+    {
       "name": "Pioneer",
       "location": "Remote",
       "startDate": "2024-12-01",
+      "endDate": "2025-12-15",
       "position": "Senior Software Engineer",
       "description": "A startup that aims to help BD operators win partnerships, customers, and grants.",
       "url": "https://www.pioneerclimate.com/",
